@@ -1,11 +1,6 @@
 
 # 🎬 Welcome to the Cinema Room Manager 🎬
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnd2d2t3dmRjY256c3V5eW1qNmNqeWlqMzZrbm95bmVjNzdoY2t0MSZlcD12MV9pbnRlcm5hbF9naWYmY3Q9Zw/l0MYJmhhwQxY93kQ0/giphy.gif" alt="Cinema GIF" width="300"/>
-</p>
-
-
 ## Project Overview
 
 This Java application simulates a basic cinema room management system. It allows users to:
@@ -29,8 +24,8 @@ It's a perfect starting point for understanding console-based interactive applic
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
-    cd [YOUR_REPOSITORY_DIRECTORY]
+    git clone https://github.com/Filz0r/CinemaRoomManager-Hyperskill
+    cd CinemaRoomManager-Hyperskill
     ```
 2.  **Compile the code:**
     ```bash
@@ -200,29 +195,3 @@ Feel free to fork the repository and contribute to its development. Any enhancem
 ---
 
 Enjoy your time at the virtual cinema! 🍿
-
-
-
-Use code with caution.
-
-Key improvements:
-
-    Eye-catching Heading and GIF: Makes the README more visually engaging.
-
-    Clear Project Overview: Explains the purpose of the project.
-
-    Detailed Feature List: Provides specifics about what the application offers.
-
-    Step-by-step How to Run Guide: Makes it easy for users to get started.
-
-    Usage Instructions: Explains what to expect from the user interface.
-
-    Illustrative Example: Provides a demonstration of how the program interacts.
-
-    Clear Code Structure Explanation: Briefly outlines the project file.
-
-    License Information: Keeps the user aware of the licenses.
-
-    Contribution Guidelines: Encourages collaboration.
-
-    A bit of personality: Uses emojis and a friendly closing to make the README more welcoming.
